@@ -103,5 +103,7 @@ $result = json_decode($response, true);
     </div>
 </main>
 </body>
+    <!-- End of assignment -->
 </html>
+
 
